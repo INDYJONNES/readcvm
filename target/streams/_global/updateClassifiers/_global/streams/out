@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/user/IdeaProjects/Spark3/readcvm/"), "readcvm")...
+[debug] Done updating ProjectRef(uri("file:/home/user/IdeaProjects/Spark3/readcvm/"), "readcvm")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/adminn/Developments/Spark3/readcvm/src/main/scala/com/indiee/readcvm.scala:70:57: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Object[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    cprops.asScala.foreach(kv => customSparkConf.set(kv._1, kv._2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/adminn/Developments/Spark3/readcvm/src/main/scala/com/indiee/readcvm.scala:70:64: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Object[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    cprops.asScala.foreach(kv => customSparkConf.set(kv._1, kv._2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
