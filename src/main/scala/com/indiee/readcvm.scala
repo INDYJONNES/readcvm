@@ -34,7 +34,7 @@ object readcvm extends Serializable{
     // reading the sample csv file 
     val inDF = loadDF(spark,args(0))
     inDF.show()
-    // printing in the logger 
+    // printing in the logger editted
     logger.info(inDF.collect().mkString("->"))
 
     val summaryDF = runsummary(inDF)
